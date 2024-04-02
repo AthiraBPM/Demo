@@ -1,0 +1,80 @@
+.main{
+    width: 20%;
+    height: 70vh;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 5%;
+    
+    
+
+}
+.first{
+    width: 94%;
+    height: 40vh;
+    background-color: rgb(50, 4, 92);
+    margin: auto;
+
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+.logo img{
+    position: relative;
+    top: 10px;
+}
+#pic{
+    border-radius: 50%;
+    
+}
+h1{
+    font-size: 55px;
+    color: yellow;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    bottom: 35px;
+}
+.third{
+    text-align: center;
+    position: relative;
+    bottom: 95px;
+    color: white;
+    
+}
+h5{
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+#p{
+    position: relative;
+    bottom: 15px;
+}
+#pto{
+    border-radius: 50%;
+    border:  10px solid  rgb(94, 64, 123);
+    position: absolute;
+    top: 190px;
+    left: 615px;
+}
+
+h3{
+    color: brown;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h6{
+    position: relative;
+    bottom: 28px;
+    left: 80px;
+    font-size: 15px;
+}
+.color{
+    width: 96%;
+    height: 5vh;
+    background-color:  rgb(50, 4, 92);
+    position: relative;
+    bottom: 32px;
+
+}

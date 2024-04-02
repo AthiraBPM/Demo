@@ -1,0 +1,40 @@
+div{
+    /* border: 0px solid ; */
+    width: 350px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 110px;
+    border-radius: 17px;
+    box-shadow:  0 0 10px 5px #313131;
+
+}
+h1{
+    height: 80px;
+    margin-top: 0;
+    background:linear-gradient(to  right, rgb(248, 96, 96),rgb(221, 37, 144),blue); 
+    color: aliceblue;
+    border-radius: 17px 17px 0px 0px;
+    padding-top: 30px;
+
+}
+input{
+    width: 250px;
+    height: 45px;
+    border-radius: 21px;
+    font-family: cursive;
+    color: beige;
+    font-size: 15px;
+    color: black;
+    
+}
+button{
+    width: 250px;
+    height: 45px;
+    border-radius: 21px;
+    background:linear-gradient(to  right, rgb(248, 96, 96),rgb(212, 89, 161),blue);
+    font-family: cursive;
+    font-size: 15px;
+    color: white;
+}
